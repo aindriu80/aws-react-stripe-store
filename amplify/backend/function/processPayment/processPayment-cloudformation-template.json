@@ -69,7 +69,7 @@
 				"Timeout": "25",
 				"Code": {
 					"S3Bucket": "amplify-mybookstore-dev-115112-deployment",
-					"S3Key": "amplify-builds/processPayment-473978556e416e2b4737-build.zip"
+					"S3Key": "amplify-builds/processPayment-514d5a45737552763450-build.zip"
 				}
 			}
 		},
